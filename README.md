@@ -1,3 +1,4 @@
-# WebDesignWorkspace
+# WebDesign Components
 
-html, css, js 공부한 것들 정리.
+# components
+* badge
