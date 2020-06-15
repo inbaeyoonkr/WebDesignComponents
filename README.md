@@ -1,4 +1,4 @@
 # WebDesign Components
 
 # components
-* badge
+* badge : Covered badge with flexbox for located at center.
